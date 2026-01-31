@@ -1,5 +1,8 @@
 # Dog Emotion Recognition Engine
 
+Link to the dog emotions datasets for training: https://www.kaggle.com/datasets/danielshanbalico/dog-emotion
+Note: We haven't provided the trained model here, you need to retrain the model to run the streamlit file. 
+
 An AI-powered application designed to analyze and classify the emotional state of dogs from facial images. This project utilizes a fine-tuned ResNet-18 architecture to detect emotions with high accuracy.
 
 ## Features
